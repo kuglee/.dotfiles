@@ -1,0 +1,4 @@
+[submodule "bash"]
+	path = bash
+	url = https://github.com/kuglee/bash.git
+	branch = master
