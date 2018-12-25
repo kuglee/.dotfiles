@@ -2,3 +2,7 @@
 	path = bash
 	url = https://github.com/kuglee/bash.git
 	branch = master
+[submodule "neovim/.config/nvim"]
+	path = neovim/.config/nvim
+	url = https://github.com/kuglee/nvim.git
+	branch = master
